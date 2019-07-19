@@ -1,0 +1,10 @@
+Assembly-CSharp.csproj
+Unity.TextMeshPro.csproj
+Unity.TextMeshPro.Editor.csproj
+Unity.PackageManagerUI.Editor.csproj
+Unity.CollabProxy.Editor.csproj
+Unity.Analytics.DataPrivacy.csproj
+Asteroids.userprefs
+*.zip
+*.meta
+*.asset
